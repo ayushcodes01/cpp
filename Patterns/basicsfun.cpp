@@ -1,11 +1,14 @@
 #include<iostream>
 using namespace std;
-void greet (){
+void usa (){
     cout<<"Good Nyt"<<endl;
-    cout<<"How r u?"<<endl;
+    
+}
+void india(){
+    cout<<"Namaste India"<<endl;
 }
 int main (){
-    greet();
-    greet();
-    
+    cout<<"ur main"<<endl;
+    india();
+    usa();
 }
